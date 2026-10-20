@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音下载与4比3裁切"
+  short_description: "下载抖音长视频、选择H.264并续传，预览确认后居中裁成4比3，保留原片与音轨"
+  default_prompt: "使用 $douyin-video-workflow 从抖音下载视频，选择最高可用的 H.264 版本，先预览居中4:3裁切效果，再按原视频码率批量处理并校验。"
