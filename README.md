@@ -4,7 +4,7 @@
 
 ## 在另一台电脑安装
 
-安装 Codex 后，登录有权访问此私有仓库的 GitHub 账号，把下面这句话发给 Codex：
+仓库已公开，安装技能无需登录 GitHub。安装 Codex 后，直接把下面这句话发给 Codex：
 
 > 使用 skill-installer，从 https://github.com/sinAsu/douyin-video-workflow 仓库安装 skills/douyin-video-workflow 这个技能。
 
